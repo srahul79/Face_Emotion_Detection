@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: #4f46e5;
+  padding: 1.5rem;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+main {
+  flex: 1;
+  padding: 1rem;
+  background-color: #f9fafb;
+}
+
+.App-footer {
+  background-color: #1f2937;
+  color: #9ca3af;
+  padding: 1rem;
+  font-size: 0.875rem;
+}
